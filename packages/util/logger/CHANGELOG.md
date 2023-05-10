@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/NG-MET/ng-met/compare/logger-v1.0.0...logger-v1.0.1) (2023-05-10)
+
+
+### Bug Fixes
+
+* **util-logger:** add keyword to package.json ([4464138](https://github.com/NG-MET/ng-met/commit/4464138edf1505ef1f5ba9d570c62cca418d3624))
+
 # 1.0.0 (2023-05-10)
 
 
