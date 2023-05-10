@@ -1,6 +1,10 @@
 {
   "name": "ng-met-util-logger",
   "version": "0.0.0-semantic-release",
+  "keywords": [
+    "angular",
+    "logger"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/NG-MET/ng-met.git",
