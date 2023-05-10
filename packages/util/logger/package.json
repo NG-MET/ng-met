@@ -1,6 +1,15 @@
 {
   "name": "ng-met/util/logger",
-  "version": "0.0.1",
+  "version": "0.0.0-semantic-release",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NG-MET/ng-met-antd.git",
+    "directory": "packages/components"
+  },
+  "publishConfig": {
+    "@psychomet:registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "peerDependencies": {
     "@angular/common": "^16.0.0",
     "@angular/core": "^16.0.0"
