@@ -3,8 +3,8 @@
   "version": "0.0.0-semantic-release",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NG-MET/ng-met-antd.git",
-    "directory": "packages/components"
+    "url": "https://github.com/NG-MET/ng-met.git",
+    "directory": "packages/util/logger"
   },
   "publishConfig": {
     "@psychomet:registry": "https://npm.pkg.github.com",
